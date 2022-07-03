@@ -69,6 +69,7 @@ The project currently does the following things.
 - Feature 1
 - Feature 2
 - Feature 3
+- Feature 4
 
 It's in a free tier IBM Cloud Kubernetes cluster. In the future we plan to run on Red Hat OpenShift, for example.
 
